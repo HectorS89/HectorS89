@@ -8,7 +8,7 @@
 
 Soy un desarrollador frontend con experiencia en la construcción de interfaces web dinámicas, accesibles y responsivas. Me encanta transformar ideas en experiencias digitales intuitivas y eficientes. Mi enfoque se centra en escribir código limpio, escalable y mantenible, mientras mantengo un ojo en los detalles de diseño.
 
-- 🌍 Desde: [Ciudad, País]  
+- 🌍 Desde: [Monte, Argentina]  
 - 📚 Siempre aprendiendo algo nuevo, especialmente sobre rendimiento web, accesibilidad y UX.  
 - 🤝 Abierto a colaboraciones en proyectos de código abierto o freelance.
 
